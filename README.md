@@ -28,7 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busracelikcioglu&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busracelikcioglu&show_icons=true&locale=en" /></p>
 
