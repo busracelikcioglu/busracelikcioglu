@@ -9,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-%C3%A7elik%C3%A7io%C4%9Flu-98090619b/" height="30" width="40" /></a>
-<a href="https://instagram.com/e.lifbeyza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.lifbeyza" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/busra_9841" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
@@ -27,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=busracelikcioglu" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busracelikcioglu&show_icons=true&locale=en" /></p>
 
