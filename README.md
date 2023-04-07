@@ -2,7 +2,7 @@
 <h3 align="center">I'm studying Information Systems Engineering at Kocaeli University</h3>
 
 
-- 🌱 I’m learning **HTML/CSS** , **ReactJS** and **JavaScript**
+- 🌱 I’m learning **HTML/CSS** , **ReactJS**, **JavaScript** and **CyberSecurity**
 
 - ⚡ Fun fact **I am in love with coding**
 
