@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="[https://www.linkedin.com/in/zehra-%C3%A7ak%C4%B1r-625350204/](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-%C3%A7elik%C3%A7io%C4%9Flu-98090619b/)" target="_blank">
+ <a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-%C3%A7elik%C3%A7io%C4%9Flu-98090619b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
  <a href="https://www.hackerrank.com/busra_9841" target="_blank">
