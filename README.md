@@ -2,7 +2,7 @@
 <h3 align="center">I'm studying Information Systems Engineering at Kocaeli University</h3>
 
 
-- 🌱 I’m learning **HTML/CSS** , **ReactJS**, **JavaScript** 
+- 🌱 I’m learning **HTML/CSS** , **React**, **JavaScript** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
