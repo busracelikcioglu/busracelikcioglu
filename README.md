@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Büşra </h1>
-<h3 align="center">I'm studying Information Systems Engineering at Kocaeli University</h3>
+<h3 align="center">I'm graduated Information Systems Engineering at Kocaeli University</h3>
 
 
 - 🌱 I’m learning **HTML/CSS** , **React**, **JavaScript** 
